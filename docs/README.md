@@ -1,7 +1,7 @@
 ---
 home: true
 lang: zh-CN
-heroText: A  Personal Blog
+heroText: A  Personal Blogs
 heroImage: /logo.jpg
 actionLink: /interview/
 features:
