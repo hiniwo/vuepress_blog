@@ -7,7 +7,17 @@ module.exports = {
 			{ text: 'CSS', link: '/CSS/' },
 			{ text: 'JavaScript', link: '/JavaScript/' }
 		],
-		
+		sidebar: [
+			{
+				title: '前端三剑客',
+				collapsable: false,
+				children: [
+					'/CSS/',
+					'/HTML/',
+					'/JavaScript/'
+				]
+			}
+		]
 	}
 	
 	

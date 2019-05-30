@@ -10,6 +10,6 @@ features:
 - title: For Me
   details: 不是每个人都是电影里面的主角。
 - title: For Interview
-  details: 前端工作一年多
+  details: 菜鸟一枚
 footer: Copyright © 2019-present Hiniwo
 ---
